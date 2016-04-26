@@ -13,7 +13,7 @@ namespace WeddingSite411.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Photos()
         {
             ViewBag.Message = "Your application description page.";
 
@@ -21,6 +21,12 @@ namespace WeddingSite411.Controllers
         }
 
         public ActionResult Contact()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
+        public ActionResult Registry()
         {
             ViewBag.Message = "Your contact page.";
 
