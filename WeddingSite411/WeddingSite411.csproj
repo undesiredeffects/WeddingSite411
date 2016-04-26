@@ -194,6 +194,11 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Images\homeimage.jpg" />
+    <Content Include="Images\picture2.jpg" />
+    <Content Include="Images\picture3.jpg" />
+    <Content Include="Images\picture4.jpg" />
+    <Content Include="Images\picture5.jpg" />
+    <Content Include="Images\picture6.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Properties\PublishProfiles\WeddingSite411.pubxml" />
